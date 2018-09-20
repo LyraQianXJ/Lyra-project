@@ -18,5 +18,6 @@ Instead of saying "See the docstring for an example", give the example in the re
 >>> uniform(G)
 Graph([(0, 2), (0, 5), (0, 6), (1, 2), (1, 3), (1, 7), (2, 4), (3, 4), (3, 8), (4, 9), (5, 6), (5, 9), (6, 7), (7, 8), (8, 9)])
 ```
+Here is what this example looks like, with the original graph highlighted.
 
-![](uniform_example)
+![](uniform_example.svg)
